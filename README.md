@@ -1,5 +1,5 @@
 # Epson XP 700
-This repo give you a recreated version of Epson XP-700 parts, graphics (like head ink indication sticker, and more..) and softwares (for use the printer at its fullest)
+This repo give you a recreated version of Epson XP-700 parts (basics and moded), graphics (like head ink indication sticker, and more..) and softwares (for use the printer at its fullest)
 
 ## Parts
 
