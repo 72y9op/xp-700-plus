@@ -15,7 +15,7 @@ This repo give you a recreated version of Epson XP-700 parts (basics and moded),
 (I create this part for the actual scan button part the goal is to make it possible to activate or not the closing of the hood without it being so)
 
 ## Graphics
-- **22/08/2022** | Ink Indication Sticker : [Click here](Graphics/Ink%20Indication%20Sticker)\
+- **22/08/2022** | Ink Indication Sticker : [Click here](Graphics/Ink%20Indication%20Sticker) <img src="https://github.com/72y9op/epson-xp-700/blob/main/Graphics/Ink%20Indication%20Sticker/Ink%20Indication%20Sticker.png" width="200"/> \
 (I recreate the actual Ink Indication Sticker)
 
 ## Software
